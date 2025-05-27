@@ -10,4 +10,8 @@ ihi am bgmi player
 
     i am sunil
     i am srinivas
+
+
+    System.out.println("prasadi snaughty");
+System.out.println("sunil aslo naughty");
 }
